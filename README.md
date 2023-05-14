@@ -18,11 +18,6 @@ pip install opencv-python
 pip install imutils
 ```
 
-- **For Video:** Type this code in terminal with the video address
-```python
-python rthd.py -v "[video file]"
-```
-
 ## INPUTS:
 - **For Image:** Type this code in terminal with the image address
 ```python
